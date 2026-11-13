@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What is the capacity of the Nimbus N8?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "8 TB"
+    ]
+  },
+  {
+    "question": "What is the idle power consumption of the Nimbus N8?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "4.8 W"
+    ]
+  },
+  {
+    "question": "What is the operating power consumption of the Nimbus N8?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "7.9 W"
+    ]
+  },
+  {
+    "question": "How loud is the Nimbus N8 when idle?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "20 dBA"
+    ]
+  },
+  {
+    "question": "What is the MTBF of the Nimbus N8?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "1,800,000 hours"
+    ]
+  },
+  {
+    "question": "What is the warranty period of the Nimbus N8?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8"
+    ],
+    "expected_contains": [
+      "3 years"
+    ]
+  },
+  {
+    "question": "What is the capacity of the Nimbus N16?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "16 TB"
+    ]
+  },
+  {
+    "question": "What is the idle power consumption of the Nimbus N16?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "5.6 W"
+    ]
+  },
+  {
+    "question": "What is the operating power consumption of the Nimbus N16?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "9.4 W"
+    ]
+  },
+  {
+    "question": "How loud is the Nimbus N16 when idle?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "22 dBA"
+    ]
+  },
+  {
+    "question": "What is the MTBF of the Nimbus N16?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "2,000,000 hours"
+    ]
+  },
+  {
+    "question": "What is the warranty period of the Nimbus N16?",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "5 years"
+    ]
+  },
+  {
+    "question": "What is the capacity of the Orion O12?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "12 TB"
+    ]
+  },
+  {
+    "question": "What is the idle power consumption of the Orion O12?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "6.3 W"
+    ]
+  },
+  {
+    "question": "What is the operating power consumption of the Orion O12?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "10.8 W"
+    ]
+  },
+  {
+    "question": "How loud is the Orion O12 when idle?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "24 dBA"
+    ]
+  },
+  {
+    "question": "What is the MTBF of the Orion O12?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "2,500,000 hours"
+    ]
+  },
+  {
+    "question": "What is the warranty period of the Orion O12?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "5 years"
+    ]
+  },
+  {
+    "question": "What is the capacity of the Orion O20?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "20 TB"
+    ]
+  },
+  {
+    "question": "What is the idle power consumption of the Orion O20?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "7.2 W"
+    ]
+  },
+  {
+    "question": "What is the operating power consumption of the Orion O20?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "12.1 W"
+    ]
+  },
+  {
+    "question": "How loud is the Orion O20 when idle?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "26 dBA"
+    ]
+  },
+  {
+    "question": "What is the MTBF of the Orion O20?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "2,500,000 hours"
+    ]
+  },
+  {
+    "question": "What is the warranty period of the Orion O20?",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "5 years"
+    ]
+  },
+  {
+    "question": "Compare the idle power consumption of the Nimbus N8 and the Nimbus N16.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "4.8 W",
+      "5.6 W"
+    ]
+  },
+  {
+    "question": "Compare the operating power consumption of the Nimbus N8 and the Nimbus N16.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "7.9 W",
+      "9.4 W"
+    ]
+  },
+  {
+    "question": "Compare the capacity of the Nimbus N8 and the Nimbus N16.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "nimbus-n16"
+    ],
+    "expected_contains": [
+      "8 TB",
+      "16 TB"
+    ]
+  },
+  {
+    "question": "Compare the idle power consumption of the Nimbus N16 and the Orion O12.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16",
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "5.6 W",
+      "6.3 W"
+    ]
+  },
+  {
+    "question": "Compare the operating power consumption of the Nimbus N16 and the Orion O12.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16",
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "9.4 W",
+      "10.8 W"
+    ]
+  },
+  {
+    "question": "Compare the capacity of the Nimbus N16 and the Orion O12.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n16",
+      "orion-o12"
+    ],
+    "expected_contains": [
+      "16 TB",
+      "12 TB"
+    ]
+  },
+  {
+    "question": "Compare the idle power consumption of the Orion O12 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "6.3 W",
+      "7.2 W"
+    ]
+  },
+  {
+    "question": "Compare the operating power consumption of the Orion O12 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "10.8 W",
+      "12.1 W"
+    ]
+  },
+  {
+    "question": "Compare the capacity of the Orion O12 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "orion-o12",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "12 TB",
+      "20 TB"
+    ]
+  },
+  {
+    "question": "Compare the idle power consumption of the Nimbus N8 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "4.8 W",
+      "7.2 W"
+    ]
+  },
+  {
+    "question": "Compare the operating power consumption of the Nimbus N8 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "7.9 W",
+      "12.1 W"
+    ]
+  },
+  {
+    "question": "Compare the capacity of the Nimbus N8 and the Orion O20.",
+    "answerable": true,
+    "expected_docs": [
+      "nimbus-n8",
+      "orion-o20"
+    ],
+    "expected_contains": [
+      "8 TB",
+      "20 TB"
+    ]
+  },
+  {
+    "question": "What is the price of the Nimbus N8?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  },
+  {
+    "question": "What is the price of the Orion O20?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  },
+  {
+    "question": "Does the Nimbus N16 support Wi-Fi?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  },
+  {
+    "question": "What colour is the Orion O12?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  },
+  {
+    "question": "What is the weight of the Nimbus N8 in grams?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  },
+  {
+    "question": "Who is the CEO of FakeDrive?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  }
+]

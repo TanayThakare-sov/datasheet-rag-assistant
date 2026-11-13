@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is the idle power consumption of the <drive model>?",
+    "answerable": true,
+    "expected_docs": ["<pdf-file-name-without-.pdf>"],
+    "expected_contains": ["<exact value as written in the PDF, e.g. 5.0 W>"]
+  },
+  {
+    "question": "Compare the warranty of the <drive A> and the <drive B>.",
+    "answerable": true,
+    "expected_docs": ["<file-a>", "<file-b>"],
+    "expected_contains": ["<value A>", "<value B>"]
+  },
+  {
+    "question": "What is the price of the <drive model>?",
+    "answerable": false,
+    "expected_docs": [],
+    "expected_contains": []
+  }
+]
